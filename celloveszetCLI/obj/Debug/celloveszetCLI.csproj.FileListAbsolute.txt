@@ -1,0 +1,8 @@
+C:\Users\benji\source\celloveszetCLI\celloveszetCLI\bin\Debug\lovesek.csv
+C:\Users\benji\source\celloveszetCLI\celloveszetCLI\bin\Debug\celloveszetCLI.exe.config
+C:\Users\benji\source\celloveszetCLI\celloveszetCLI\bin\Debug\celloveszetCLI.exe
+C:\Users\benji\source\celloveszetCLI\celloveszetCLI\bin\Debug\celloveszetCLI.pdb
+C:\Users\benji\source\celloveszetCLI\celloveszetCLI\obj\Debug\celloveszetCLI.csproj.AssemblyReference.cache
+C:\Users\benji\source\celloveszetCLI\celloveszetCLI\obj\Debug\celloveszetCLI.csproj.CoreCompileInputs.cache
+C:\Users\benji\source\celloveszetCLI\celloveszetCLI\obj\Debug\celloveszetCLI.exe
+C:\Users\benji\source\celloveszetCLI\celloveszetCLI\obj\Debug\celloveszetCLI.pdb
