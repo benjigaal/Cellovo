@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace celloveszetWPF
 {
-    // 2. feladat (osztály készítése)
     public class Cellovo
     {
         public string Nev { get; private set; }
@@ -19,7 +18,6 @@ namespace celloveszetWPF
 
         public int Negyedikloves { get; private set; }
 
-        //3. és 4. feladat (konstruktor készítése)
         public Cellovo(string line)
         {
             string[] darabok = line.Split(';');
@@ -30,7 +28,6 @@ namespace celloveszetWPF
             Negyedikloves = Convert.ToInt32(darabok[4]);
         }
 
-        // 8. feladat (osztály függvény készítése)
         public int Legnagyobb()
         {
             int max = Elsoloves;
